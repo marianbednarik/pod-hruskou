@@ -24,7 +24,7 @@ export default function ContactSection() {
     <RootContainer>
       <p>
         Môžete nás kontaktovať ohľadom rezervácií, akýchkoľvek otázok alebo
-        poznámok. Sme taktiež otvorený novým pracovným posilám, takźe sa
+        poznámok. Sme taktiež otvorení novým pracovným posilám, takže nás
         neváhajte navštíviť aj osobne. <strong>Tešíme sa na Vás</strong>.
       </p>
       <br />
